@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo João, e nesse repositorio acabei criando com o objetivo de aramzenar minhas ideias, simples assim.<br>Nada de código, de arquivos, nada disso. Aqui ficará armazenado minhas ideias e documentação de futuros e atuais projetos que eu estarei trabalhando.</p>
+<p align="left">Me chamo João, e nesse repositorio foi pensado e criando com o objetivo de armazenar minhas ideias, simples assim.<br>Nada de código ou de arquivos dos projetos. Aqui ficará armazenado minhas ideias e documentação de futuros e atuais projetos que eu estarei trabalhando.</p>
 
 ###
 
